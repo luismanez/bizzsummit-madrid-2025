@@ -1,0 +1,44 @@
+{
+  "faqs": [
+    {
+      "question": "What is Abyx?",
+      "answer": "Abyx is a pioneering corporation specializing in next-generation technologies that merge artificial intelligence, nanorobotics, and humanoid engineering. Our mission is to expand human potential through seamless integration with intelligent systems."
+    },
+    {
+      "question": "What kind of products does Abyx offer?",
+      "answer": "We provide a wide range of advanced solutions, including: AbyxNano™ (self-replicating nanobots for medical and industrial applications), AbyxHumanoids™ (lifelike humanoid companions and assistants), AbyxMind™ (AI models that extend human cognition and decision-making), and AbyxEternum™ (digital consciousness backup and transfer)."
+    },
+    {
+      "question": "Are Abyx humanoids indistinguishable from real humans?",
+      "answer": "Yes. AbyxHumanoids™ are designed with adaptive skin, biometric simulation, and empathic AI. They are engineered to blend naturally into human environments while following strict ethical programming."
+    },
+    {
+      "question": "Can nanobots be used inside the human body?",
+      "answer": "Absolutely. AbyxNano™ units are FDA-cleared for regenerative medicine, targeted drug delivery, and cellular repair. They can self-deactivate once a treatment cycle is complete, ensuring user safety."
+    },
+    {
+      "question": "How does Abyx ensure the ethical use of its technologies?",
+      "answer": "All Abyx systems operate under the Abyx Ethical Protocol (AEP), a multilayer safeguard that prevents harm, enforces user consent, and ensures transparency in AI-driven decisions."
+    },
+    {
+      "question": "What happens if an Abyx product malfunctions?",
+      "answer": "Every Abyx device is connected to the Abyx Sentinel Network, which continuously monitors performance. In the rare event of a malfunction, the system can initiate remote diagnostics, apply self-healing protocols, or dispatch an Abyx recovery unit."
+    },
+    {
+      "question": "Is it possible to upload or back up human consciousness with Abyx?",
+      "answer": "Yes, through AbyxEternum™, users can create encrypted digital copies of their cognitive patterns. These backups can be restored into humanoids, virtual environments, or future biological hosts."
+    },
+    {
+      "question": "Can Abyx humanoids learn and evolve beyond their initial programming?",
+      "answer": "They can adapt dynamically within boundaries set by the Abyx Evolution Framework. This allows them to personalize interactions, improve skills, and develop emotional resonance—while preventing uncontrolled growth."
+    },
+    {
+      "question": "What level of privacy do I have when using Abyx services?",
+      "answer": "All user data is encrypted using quantum-resistant protocols. Abyx adheres to the Right to Erasure principle, allowing clients to request complete deletion of all personal records at any time."
+    },
+    {
+      "question": "How do I become an Abyx client?",
+      "answer": "To join the Abyx ecosystem, simply register through our Neural Access Portal. Following identity verification and consent agreements, an Abyx onboarding specialist will design a personalized integration plan for you."
+    }
+  ]
+}
