@@ -1,0 +1,14 @@
+{
+  "AzureOpenAI": {
+    "DeploymentName": "",
+    "Endpoint": "",
+    "ApiKey": ""
+  },
+  "Copilot": {
+    "AppClientId": "",
+    "TenantId": "",
+    "ClientSecret": "",
+    "EnvironmentId": "",
+    "SchemaName": ""
+  }
+}

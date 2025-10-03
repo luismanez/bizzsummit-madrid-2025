@@ -419,3 +419,4 @@ FodyWeavers.xsd
 src/MagIA.Agent/settings.json
 src/MagIA.HelloSK/settings.json
 src/Abyx.Orchestrator/settings.json
+src/Abyx.Orchestrator.Agent/settings.json
