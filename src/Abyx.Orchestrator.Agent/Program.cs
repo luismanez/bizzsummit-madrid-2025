@@ -92,6 +92,7 @@ AIAgent agent = new AzureOpenAIClient(
 
 while (true)
 {
+    Console.WriteLine("-------------------------------");
     Console.Write("> ");
     var query = Console.ReadLine();
     if (string.IsNullOrWhiteSpace(query)) continue;
@@ -99,5 +100,14 @@ while (true)
     Console.WriteLine(
         await agent.RunAsync(
             query));
+    Console.WriteLine();
 }
 
+// var query = "What is Abyx Eternum and how does privacy work?";
+// Console.WriteLine(
+//         await agent.RunAsync(
+//             query));
+
+// What is Abyx Eternum and how does privacy work?
+// We need post-surgery cellular repair with safety constraints.
+// Price for AbyxMind and yearly cost for 25 seats.

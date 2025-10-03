@@ -13,11 +13,12 @@ public class CopilotStudioTokenHandler : HttpClientHandler
         _tenantId = tenantId ?? throw new ArgumentNullException(nameof(tenantId));
         _clientId = clientId ?? throw new ArgumentNullException(nameof(clientId));
     }
-    protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+    protected override async Task<HttpResponseMessage> SendAsync(
+        HttpRequestMessage request, CancellationToken cancellationToken)
     {
         if (request.Headers.Authorization is null)
         {
-            var scopes = new[] { "https://api.gov.powerplatform.microsoft.us/CopilotStudio.Copilots.Invoke" };
+            var scopes = new[] { "https://api.powerplatform.com/CopilotStudio.Copilots.Invoke" };
 
             // using Azure.Identity;
             var options = new InteractiveBrowserCredentialOptions
